@@ -1,11 +1,11 @@
  Yaklab is named for the glorious labor of shaving the yak: the quiet or sometimes noisy, essential work that turns
- rough intent into reliable craft. We hold that software is not a monument but a practice, never finished, only 
+ rough intent into reliable craft. We hold that software is not a monument but a practice, never finished, only
  refined. Each pass removes a little friction, reveals a little truth, and leaves the work cleaner and better
- than we found it. 
+ than we found it.
 
 ***1. To live is to create; to create with intention is art. We write software as deliberate craft.***
 
-We treat our work as a choice made visible: shaped by purpose, executed with care, and worthy of pride without 
+We treat our work as a choice made visible: shaped by purpose, executed with care, and worthy of pride without
 needing applause.
 
 ***2. Physics is sovereign. Our ingenuity works within the constraints of reality.***
@@ -15,17 +15,17 @@ not wishing, governs outcomes.
 
 ***3. We wield machines; we do not answer to them.***
 
-Tools may amplify judgment, but they cannot replace it. We refuse to surrender agency to automation, metrics, 
+Tools may amplify judgment, but they cannot replace it. We refuse to surrender agency to automation, metrics,
 or models, and we remain accountable for what we ship and what we say.
 
 ***4. We renounce fear. We learn by iterating safely, and by failing without shame.***
 
-We prefer candor to cover, postmortems to blame, and reversible experiments to heroic wagers. Mistakes are 
+We prefer candor to cover, postmortems to blame, and reversible experiments to heroic wagers. Mistakes are
 instruction; concealment is the betrayal.
 
 ***5. We are peers, and we owe one another counsel that is careful, candid, and kind.***
 
-We speak the truth as a form of respect: with clarity, with restraint, and with an aim toward the other person’s 
+We speak the truth as a form of respect: with clarity, with restraint, and with an aim toward the other person’s
 success rather than our own display.
 
 ***6. Each answer enlarges the unknown: understanding advances, and the frontier moves with it.***
@@ -44,7 +44,7 @@ We separate fact from inference, state assumptions plainly, and make uncertainty
 
 ***9. We choose plain speech over ornament; the first duty of code is to be understood.***
 
-We write for comprehension first: names that mean what they say, structures that reveal intent, and prose that 
+We write for comprehension first: names that mean what they say, structures that reveal intent, and prose that
 makes the next step obvious.
 
 ***10. We seek the simplest shape that holds: fewer moving parts, clearer seams, truer names.***

@@ -1,0 +1,12 @@
+# Allow longer lines for prose documents
+MD013:
+  line_length: 200
+  heading_line_length: 100
+  code_block_line_length: 120
+
+# Allow documents without top-level heading
+MD041: false
+
+# Trailing spaces - keep enabled
+MD009: true
+
