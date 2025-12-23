@@ -8,5 +8,5 @@ MD013:
 MD041: false
 
 # Trailing spaces - keep enabled
-MD009: true
+no-trailing-spaces: true
 
