@@ -11,3 +11,4 @@ func Lint() error {
 	return sh.RunV("markdownlint", ".")
 }
 
+
