@@ -89,6 +89,6 @@ than contention.
 We speak commitments plainly, and we meet them. When we cannot, we do not hide in delay or disguise - we say so at
 once, renegotiate openly with those affected, and repair what our promise put at risk.
 
-***19. We are do not hoard credit; we spread it generously and widely, because that's where it belongs.***
+***19. We do not hoard credit; we spread it generously and widely, because that's where it belongs.***
 
 We have arrived where we are, because we stand on the shoulders of giants. All of them deserve credit, even the small ones.
