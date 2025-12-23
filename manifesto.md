@@ -10,7 +10,7 @@ needing applause.
 
 ***2. Physics is sovereign. Our ingenuity works within the constraints of reality.***
 
-We respect the unglamorous limits—time, entropy, bandwidth, latency, cost, and attention—and design so truth,
+We respect the unglamorous limits - time, entropy, bandwidth, latency, cost, and attention - and design so truth,
 not wishing, governs outcomes.
 
 ***3. We wield machines; we do not answer to them.***
@@ -40,7 +40,7 @@ our conclusions without defending yesterday’s ego.
 
 ***8. Our standard is disciplined humility: convictions held lightly, evidence held tightly, conclusions held open.***
 
-We separate fact from inference, state assumptions plainly, and make uncertainty explicit—because honesty about what we do not know is the beginning of learning.
+We separate fact from inference, state assumptions plainly, and make uncertainty explicit - because honesty about what we do not know is the beginning of learning.
 
 ***9. We choose plain speech over ornament; the first duty of code is to be understood.***
 
@@ -61,12 +61,12 @@ We resist grand, vague guarantees. We design minimal interfaces, clear boundarie
 We surface failure early, handle it deliberately, and design recovery paths. Reliability is not optimism; it is
 preparation.
 
-***13. We write for those who will inherit our work—through naming, examples, and candid documentation.***
+***13. We write for those who will inherit our work - through naming, examples, and candid documentation.***
 
 We leave maps, not riddles. We document tradeoffs, decisions, and edges so the future is not forced to rediscover
 the past at full cost.
 
-***14. Where possible, we build from certainty: given the same cause, the same effect—no surprises, no secret state.***
+***14. Where possible, we build from certainty: given the same cause, the same effect - no surprises, no secret state.***
 
 We prefer determinism, transparency, and testability. Hidden coupling is debt; predictable behavior is freedom.
 
@@ -79,12 +79,16 @@ We isolate what must vary, constrain what can break, and keep side effects where
 We design components that do one job well and connect cleanly. Systems endure when pieces can change without
 shattering the whole.
 
-***17. When we work in parallel, we coordinate by clear exchange—not by shared confusion.***
+***17. When we work in parallel, we coordinate by clear exchange - not by shared confusion.***
 
 We communicate through explicit protocols and thoughtful boundaries, so concurrency becomes cooperation rather
 than contention.
 
 ***18. Integrity is not a moral victory; it is the practiced fidelity that makes trust real.***
 
-We speak commitments plainly, and we meet them. When we cannot, we do not hide in delay or disguise—we say so at
-once, renegotiate openly with those affected, and repair what our promise put at risk. It is an axiom for all morality.
+We speak commitments plainly, and we meet them. When we cannot, we do not hide in delay or disguise - we say so at
+once, renegotiate openly with those affected, and repair what our promise put at risk.
+
+***19. We are do not hoard credit; we spread it generously and widely, because that's where it belongs.***
+
+We have arrived where we are, because we stand on the shoulders of giants. All of them deserve credit, even the small ones.
