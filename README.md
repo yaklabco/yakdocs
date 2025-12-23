@@ -6,10 +6,10 @@
 </p>
 <!-- markdownlint-enable no-inline-html -->
 
-We are inspired by great software and the possiblities it presents, both as an economic engine and as force for change. We founded Yaklabs because we want to change our world and
-spend our lives producing great software that does great things. Right now, we are unclear as to what this means. But for now it's a tight and deliberate collaboration and a represents a joining
-of intellectual forces.
+We are inspired by great software and the possibilities it presents. We want to spend our life making great software - which is why we have launched this collaboration.
 
-We have drafted a [manifesto](manifesto.md)which espouses our software development world view.
+We have drafted a [manifesto](manifesto.md) which espouses our software development world view.
 
-So far we have a single project [Stave](https://github.com/yaklabco/stave), which is based on the excellent work by [Nate Finch](https://github.com/natefinch).
+So far we have a single project, [Stave](https://github.com/yaklabco/stave), which is a fork that
+adds numerous capabilities on top of the excellent [Mage](https://github.com/magefile/mage) tool
+by [Nate Finch](https://github.com/natefinch).
