@@ -1,7 +1,10 @@
 # Yaklab.org
 
-<!-- markdownlint-disable MD033 -->
-<img src="img/yaklab.png" alt="Yaklab" width="200" height="200" align="center"/>
+<!-- markdownlint-disable no-inline-html -->
+<p align="center">
+  <img src="img/yaklab-logo.png" alt="Stave logo" width="400" />
+</p>
+<!-- markdownlint-enable no-inline-html -->
 
 We are inspired by great software and the possiblities it presents, both as an economic engine and as force for change. We founded Yaklab because we want to change our world and
 spend our lives producing great software that does great things. Right now, we are unclear as to what this means. But for now it's a tight and deliberate collaboration and a represents a joining
