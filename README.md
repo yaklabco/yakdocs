@@ -1,4 +1,4 @@
-# Yaklab.org
+# Yaklabs
 
 <!-- markdownlint-disable no-inline-html -->
 <p align="center">
