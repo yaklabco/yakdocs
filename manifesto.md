@@ -97,7 +97,7 @@ We have arrived where we are, because we stand on the shoulders of giants. All o
 
 People often spend more time talking about doing something than it takes to just do it.
 
-This is not an “anti-planning” position; we recognize the wisdom of “work smart, not hard” / “measure twice, cut once” / etc.;
+This is not an "anti-planning" position; we recognize the wisdom of "work smart, not hard" / "measure twice, cut once" / etc.;
 that is to say, jumping straight into implementation without giving _any_ thought to how that implementation should go is
 a recipe for disaster. But it is very common to see people over-indexing on that principle. Especially given that it is not
 actually possible to foresee, in the planning stages & prior to any implementation, the full set of roadblocks (nor the
