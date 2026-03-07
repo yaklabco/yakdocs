@@ -93,7 +93,7 @@ once, renegotiate openly with those affected, and repair what our promise put at
 
 We have arrived where we are, because we stand on the shoulders of giants. All of them deserve credit, even the small ones.
 
-***20. "If you have to code, code; don't talk."*** _(This one works better if you imagine Clint Eastwood saying it.)
+***20. "If you have to code, code; don't talk."*** _(This one works better if you imagine Clint Eastwood saying it.)_
 
 People often spend more time talking about doing something than it takes to just do it.
 
