@@ -92,3 +92,16 @@ once, renegotiate openly with those affected, and repair what our promise put at
 ***19. We do not hoard credit; we spread it generously and widely, because that's where it belongs.***
 
 We have arrived where we are, because we stand on the shoulders of giants. All of them deserve credit, even the small ones.
+
+***20. "If you have to code, code; don't talk."*** _(This one works better if you imagine Clint Eastwood saying it.)_
+
+People often spend more time talking about doing something than it takes to just do it.
+
+This is not an "anti-planning" position; we recognize the wisdom of "work smart, not hard" / "measure twice, cut once" / etc.;
+that is to say, jumping straight into implementation without giving _any_ thought to how that implementation should go is
+a recipe for disaster. But it is very common to see people over-indexing on that principle. Especially given that it is not
+actually possible to foresee, in the planning stages & prior to any implementation, the full set of roadblocks (nor the
+full set of serendipitous opportunities) that reveal themselves once you are in the thick of implementation.
+
+It very often takes more time to "dry run" an implementation plan in your mind than it would take just going through with
+the implementation & seeing if you like it.
